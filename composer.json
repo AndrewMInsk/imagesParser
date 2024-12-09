@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Model\\": "Model/",
+      "View\\": "View/",
+      "Controller\\": "Controller/"
+    }
+  },
+  "require": {
+    "jaeger/phpquery-single": "^1.1"
+  }
+}
